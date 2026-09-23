@@ -1,18 +1,43 @@
-### Hi there 👋
+<div align="center">
 
-<!-- 
-**GrampHoang/GrampHoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hoang Luong
+### Full-stack Engineer
 
-Here are some ideas to get you started: -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tuan-dinh-604868125/](https://www.linkedin.com/in/ho%C3%A0ng-l%C6%B0%C6%A1ng-0b6696249/))
+[![Email](https://img.shields.io/badge/Email-hoangluongdv3011%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hoangluongdv3011@gmail.com)
 
-- 🔭 I’m currently working on a mod for Shattered Pixel Dungeon: [Gensokyo Pixel Dungeon](https://github.com/GrampHoang/Gensokyo-pixel-dungeon)
-- 🌱 I’m currently learning: Machine Learning, Deep Learning, MLOps, Mobile Development, Software Engineering, Frontend Development.
-- 👯 I’m looking to collaborate on: Computer Vision-related projects (for now)
-- 🤔 I’m looking for help with: getting a suitable job and a challenging environment.
-<!-- - 💬 Ask me about anything. Work related or gaming related works. I am very active on GitHub. -->
-<!-- - 📫 How to reach me: just send me an email on [hoangluongdv3011@] () for work-related queries, or on my [Discord] for fun and giggles. -->
-<!--
-- 😄 Pronouns: he/him, because I am not confused about my own gender (no offense but Americans are fucking dumb). Fight me bro.
-- ⚡ Fun fact: I once slept with your mom and pushed 999 commits on her repo.
-- If you're reading this commented block then you are wasting your time. Go outside and touch grass lol (JK plz hire me lol I'm broke).
--->
+</div>
+
+## :man: About Me
+
+I am a full-stack engineer based in Ho Chi Minh City, Vietnam. Over the past few years, I've had the opportunity to work alongside great developers who helped me level up my skills. I've learned and joined hand in building a resilient, high-throughput, distributed monitoring platform (MonitoringDog) from the ground up. I've also worked across different storage engines that have their own pros, cons and usecases (Postgres, DynamoDB, InfluxDB, Redis), know how and when to built internal tooling to help our engineering team move faster
+
+Outside of work, I love taking on side quests: exploring and experimenting with new AI tools, creating simple web games during game jams, and building a dozen prototypes that will probably never see the light of day. I enjoy reading and diving into something new, it keeps things fun and my mind open to new ideas.
+
+---
+
+## 🛠️ Technical Stack
+
+<div align="center">
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | TypeScript, JavaScript, Python |
+| **Frameworks & Runtimes** | Node.js, Next.js, NestJS, React, Inngest |
+| **Cloud & Infrastructure:** | AWS (CDK, Lambda, SQS, CloudWatch), Docker |
+| **Architecture & Patterns:** | Distributed Systems, Event-Driven Architecture, Redis Streams, Domain-Driven Design, Clean Architecture |
+| **AI** | Agentic workflow orchestration, Spec-Driven Design, Test-Driven Design |
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=GrampHoang&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+<br/><br/>
+
+---
+
+</div>
