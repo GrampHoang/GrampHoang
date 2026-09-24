@@ -10,9 +10,11 @@
 
 ## :man: About Me
 
-I am a full-stack engineer based in Ho Chi Minh City, Vietnam. Over the past few years, I've had the opportunity to work alongside great developers who helped me level up my skills. I've learned and joined hand in building a resilient, high-throughput, distributed monitoring platform (MonitoringDog) from the ground up. I've also worked across different storage engines that have their own pros, cons and usecases (Postgres, DynamoDB, InfluxDB, Redis), know how and when to built internal tooling to help our engineering team move faster
+I am a full-stack engineer based in Ho Chi Minh City, Vietnam. 
 
-Outside of work, I love taking on side quests: exploring and experimenting with new AI tools, creating simple web games during game jams, and building a dozen prototypes that will probably never see the light of day. I enjoy reading and diving into something new, it keeps things fun and my mind open to new ideas.
+I've learned and joined hand in building a resilient, high-throughput, distributed monitoring platform (MonitoringDog) from the ground up. I've also worked across different storage engines that have their own pros, cons and usecases (Postgres, DynamoDB, InfluxDB, Redis), know how and when to built internal tooling to help our engineering team move faster.
+
+Outside of work, I love taking on side quests: exploring and experimenting with new AI tools, creating simple web games during game jams (under differnt alias), and building a dozen prototypes that will probably never see the light of day. I enjoy reading and diving into something new, it keeps things fun and my mind open to new ideas.
 
 ---
 
